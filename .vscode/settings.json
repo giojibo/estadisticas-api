@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./estadisticas/estadisticas_api"
+    ]
+}
